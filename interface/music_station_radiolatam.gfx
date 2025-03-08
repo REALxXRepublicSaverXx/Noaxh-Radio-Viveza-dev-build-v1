@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_radio_latam_album_art"
+		texturefile = "gfx/radio_latam_album_art.dds"
+		noOfFrames = 2
+	}
+}
