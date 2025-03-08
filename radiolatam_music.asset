@@ -1,0 +1,308 @@
+
+# MAIN THEME
+
+music = {
+	name = "radiocapital"
+	file = "radiocapital.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "elzar"
+	file = "elzar.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "12ultraviolento"
+	file = "12ultraviolento.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "amimegustasustyle"
+	file = "amimegustasustyle.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "adioslepido"
+	file = "adioslepido.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "alagados"
+	file = "alagados.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "bailandosolo"
+	file = "bailandosolo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "camilacamila"
+	file = "camilacamila.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "caballohomosexual"
+	file = "caballohomosexual.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ciudadmagica"
+	file = "ciudadmagica.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "deja"
+	file = "deja.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "devuelvemeamichica"
+	file = "devuelvemeamichica.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "franceslimon"
+	file = "franceslimon.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "diasdeluta"
+	file = "diasdeluta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "elbaileyelsalon"
+	file = "elbaileyelsalon.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "enamoradotuyo"
+	file = "enamoradotuyo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "exagerado"
+	file = "exagerado.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "enlaciudaddelafuria"
+	file = "enlaciudaddelafuria.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "hoy"
+	file = "hoy.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "impacto"
+	file = "impacto.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "lafuerzadelamor"
+	file = "lafuerzadelamor.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "launiversidad"
+	file = "launiversidad.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "maldita"
+	file = "maldita.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "marioneta"
+	file = "marioneta.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "meadora"
+	file = "meadora.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "mentiras"
+	file = "mentiras.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "meuerro"
+	file = "meuerro.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "mibuenamor"
+	file = "mibuenamor.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "oastronautadomarmore"
+	file = "oastronautadomarmore.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "acendaofarol"
+	file = "acendaofarol.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "ohquesera"
+	file = "ohquesera.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "pachuco"
+	file = "pachuco.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "porquenosevan"
+	file = "porquenosevan.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "proximaentrega"
+	file = "proximaentrega.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "profugos"
+	file = "profugos.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "quepaiseeste"
+	file = "quepaiseeste.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "rubiasolmorenaluna"
+	file = "rubiasolmorenaluna.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "shakiraysusamigas"
+	file = "shakiraysusamigas.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "florecitarockera"
+	file = "florecitarockera.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "tempoperdido"
+	file = "tempoperdido.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "todaformadepoder"
+	file = "todaformadepoder.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "toloachepaminegra"
+	file = "toloachepaminegra.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "trenalsur"
+	file = "trenalsur.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "tricicloperu"
+	file = "tricicloperu.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "tualmamiaadelita"
+	file = "tualmamiaadelita.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "tormento"
+	file = "tormento.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "unanubecuelgasobremi"
+	file = "unanubecuelgasobremi.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "vayansetodosamama"
+	file = "vayansetodosamama.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "vengase"
+	file = "vengase.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "vocenaosoubemeamar"
+	file = "vocenaosoubemeamar.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "yendoalacasadedamian"
+	file = "yendoalacasadedamian.ogg"
+	volume = 0.65
+}
